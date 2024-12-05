@@ -63,7 +63,7 @@ Suggestions, critiques, or ideas for improvement are welcome. Let’s connect an
 
 ## 🔗 Connect with Me  
 - **LinkedIn**: [Anurag Mishra](https://www.linkedin.com/in/anurag-mishra-b17051288/)  
-- **GitHub**: [Max's GitHub](https://github.com/your-github-profile-link)  
+- **GitHub**: [Max's GitHub]([https://github.com/your-github-profile-link](https://github.com/AnuragMishra800))  
 
 ---
 Key Improvements
