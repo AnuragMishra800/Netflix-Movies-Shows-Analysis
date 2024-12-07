@@ -63,10 +63,3 @@ Suggestions, critiques, or ideas for improvement are welcome. Let’s connect an
 
 ## 🔗 Connect with Me  
 - **LinkedIn**: [Anurag Mishra](https://www.linkedin.com/in/anurag-mishra-b17051288/)  
-
----
-Key Improvements
-Used headings, tables, and bullet points for clarity.
-Added links for the dataset and your profiles.
-Used emoji to enhance readability and make it visually appealing.
-This will make your README more professional and engaging!
